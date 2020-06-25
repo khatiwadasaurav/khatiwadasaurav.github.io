@@ -150,6 +150,17 @@
   text-align: justify;
 }
 .passedOn {
-  width: 80%;
-  margin: auto;
+  width: 95%;
+}
+.badge-light {
+  color: #ffffff;
+  background-color: #434e5d;
+}
+.featured-image {
+  border-radius: 3px;
+  box-shadow: 1px blanchedalmond;
+  box-shadow: 5px 5px 5px #aaaaaa;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #bfbfbf;
+  margin-bottom: 3%;
 }
